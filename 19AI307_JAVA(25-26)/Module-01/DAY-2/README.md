@@ -9,6 +9,7 @@ To write a Java program to simulate this elevator logic for a given floor number
 
 
 ## ALGORITHM :
+```
 1.Start
 2️. Declare an integer variable floor.
 3️. Input the floor number from the user.
@@ -21,7 +22,7 @@ To write a Java program to simulate this elevator logic for a given floor number
 7️. Else
     • Print "Floor {floor}"
 8️. Stop
-
+```
 
 
 
@@ -61,3 +62,4 @@ public class Main{
 ## RESULT:
 
 Thus,the program was executed Successfully.
+
