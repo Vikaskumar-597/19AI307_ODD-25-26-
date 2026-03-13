@@ -69,4 +69,5 @@ public class ReverseString {
 
 ## RESULT:
 
-Thus , the progra was executed Successfully.
+Thus , the program was executed Successfully.
+
