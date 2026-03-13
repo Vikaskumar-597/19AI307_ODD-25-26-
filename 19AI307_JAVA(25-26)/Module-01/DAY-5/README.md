@@ -10,6 +10,7 @@ To write a Java program to reverse a given string.
 
 ## ALGORITHM :
 
+```
 1️.Start
 2️. Declare a string variable str.
 3️. Declare another string variable rev and initialize it as an empty string.
@@ -22,8 +23,7 @@ To write a Java program to reverse a given string.
     Reversed string: + rev
 9️. Stop
 
-
-
+```
 
 ## PROGRAM:
 
@@ -70,4 +70,5 @@ public class ReverseString {
 ## RESULT:
 
 Thus , the program was executed Successfully.
+
 
