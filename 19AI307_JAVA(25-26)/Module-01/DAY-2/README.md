@@ -10,7 +10,7 @@ To write a Java program to simulate this elevator logic for a given floor number
 
 ## ALGORITHM :
 ```
-1.Start
+1. Start
 2️. Declare an integer variable floor.
 3️. Input the floor number from the user.
 4️. Check if the floor number is divisible by both 3 and 5
@@ -29,8 +29,8 @@ To write a Java program to simulate this elevator logic for a given floor number
 
 ## PROGRAM:
 
-## Developed by: B.VIMALRAJ
-## RegisterNumber:  212224230304
+### Developed by:  Vikaskumar M
+### RegisterNumber:  212224220122
 
 
 
