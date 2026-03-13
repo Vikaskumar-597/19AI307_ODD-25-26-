@@ -27,6 +27,7 @@ Write a Java program that prompts the user to enter a non-negative integer and t
 
 ## SOURCE CODE:
 
+```
 import java.util.*;
 public class Main{
     public static void main(String[] arg){
@@ -44,6 +45,7 @@ public class Main{
         System.out.println("Factorial of "+n+" is: "+fact);
     }
 }
+```
 
 
 
@@ -53,3 +55,4 @@ public class Main{
 
 ## RESULT:
 Thus,the program was executed Successfully.
+
